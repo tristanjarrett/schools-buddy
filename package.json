@@ -1,0 +1,21 @@
+{
+  "name": "schools-buddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "sass": "sass --watch scss:css"
+  },
+  "keywords": [
+    "schoolsbuddy",
+    "technical",
+    "interview",
+    "angularjs",
+    "job"
+  ],
+  "author": "Tristan Jarrett",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.26.3"
+  }
+}

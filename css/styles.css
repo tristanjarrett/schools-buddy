@@ -1,0 +1,23 @@
+.header {
+  background-color: #8973b2;
+  padding: 1.5rem 0;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header .brand {
+  font-size: 1.2rem;
+}
+
+.main {
+  padding: 2rem 0;
+}
+
+.footer {
+  background-color: #333;
+  padding: 1.5rem;
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */
