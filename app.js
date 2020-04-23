@@ -25,6 +25,7 @@ app.controller('sbCtrl', function ($scope, $http) {
 
       var user = {
         'id': users[i]._id,
+        'isActive': users[i].isActive,
         'name': users[i].name,
         'age': users[i].age,
         'registered': reg,
