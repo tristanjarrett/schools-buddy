@@ -33,6 +33,7 @@ app.controller('sbCtrl', function ($scope, $http) {
         'balance': users[i].balance
       }
       $scope.userList.push(user)
+      console.log(users[i].registered)
     }
 
     console.log($scope.userList)
